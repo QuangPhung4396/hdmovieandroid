@@ -1,6 +1,6 @@
 {
-    "totalMaxClicks": 1,
+    "totalMaxClicks": 30,
     "allowRateApp": false,
-    "isShowAds": false,
+    "isShowAds": true,
     "isWatchMovies": false
 }
